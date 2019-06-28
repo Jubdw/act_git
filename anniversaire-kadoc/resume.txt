@@ -1,0 +1,11 @@
+J'ai mis chaque éléments dans des divs avec des ID propres pour faciliter la sélection.
+
+Seule la 1ere div est visible au chargement de la page : tous les autres éléments sont en "display : none;" sur le fichier css.
+
+J'utilise la fonction .on('click', ... ) sur chaque div pour faire apparaitre la suivante.
+
+La quatrieme div lance le fichier audio et fait apparaître Kadoc avec une photo au milieu et en arrière plan.
+
+
+
+Kadoc aussi sait souhaiter les anniversaires. Il n'a juste pas compris ce qu'on lui a demandé et cherche la poulette...
